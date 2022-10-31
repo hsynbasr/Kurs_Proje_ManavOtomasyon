@@ -1,0 +1,8 @@
+C:\Users\HB\source\repos\Manav_Otomastonu_HüseyinBaşer\manav_otomasyon_güncel\bin\Debug\manav_otomasyon_güncel.exe.config
+C:\Users\HB\source\repos\Manav_Otomastonu_HüseyinBaşer\manav_otomasyon_güncel\bin\Debug\manav_otomasyon_güncel.exe
+C:\Users\HB\source\repos\Manav_Otomastonu_HüseyinBaşer\manav_otomasyon_güncel\bin\Debug\manav_otomasyon_güncel.pdb
+C:\Users\HB\source\repos\Manav_Otomastonu_HüseyinBaşer\manav_otomasyon_güncel\obj\Debug\manav_otomasyon_güncel.csproj.AssemblyReference.cache
+C:\Users\HB\source\repos\Manav_Otomastonu_HüseyinBaşer\manav_otomasyon_güncel\obj\Debug\manav_otomasyon_güncel.csproj.SuggestedBindingRedirects.cache
+C:\Users\HB\source\repos\Manav_Otomastonu_HüseyinBaşer\manav_otomasyon_güncel\obj\Debug\manav_otomasyon_güncel.csproj.CoreCompileInputs.cache
+C:\Users\HB\source\repos\Manav_Otomastonu_HüseyinBaşer\manav_otomasyon_güncel\obj\Debug\manav_otomasyon_güncel.exe
+C:\Users\HB\source\repos\Manav_Otomastonu_HüseyinBaşer\manav_otomasyon_güncel\obj\Debug\manav_otomasyon_güncel.pdb
